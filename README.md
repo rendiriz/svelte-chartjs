@@ -1,0 +1,4 @@
+### @svelte-chartjs
+
+## Feature
+- Bar
